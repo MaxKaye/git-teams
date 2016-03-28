@@ -1,2 +1,6 @@
 Please give us a merge conflict.
+<<<<<<< HEAD
 hopefully conflict this
+=======
+a new line
+>>>>>>> b5bee8dac3a64216354479b63e0292af7dd4ab62
